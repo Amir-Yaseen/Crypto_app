@@ -5,8 +5,8 @@ You Can Use this if you want to show simply crypto currency analytics using coin
 
 # Requirments
 
-Make sure yout Flutter environment is setup
-Any operation System (MacOS, Linux, Windows)
+Make sure yout Flutter environment is setup.
+Any operation System (MacOS, Linux, Windows).
 
 ## Getting Started
 
